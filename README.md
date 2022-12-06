@@ -9,10 +9,10 @@
 Более подробно в какой последовательности проходит обучение и какие темы затрагивает:
 [Учебная программа с описанием спринтов](https://github.com/zenkirb/data_analyst_yandex_practicum/blob/main/Data_Analyst_Curriculum_Yandex_Practicum.pdf)
 
-## Навыки,знания и инструменты полученные во время обучения:
--  
--  
-- Дополнительно участвовал в элективе по построению дашбордов в Microsoft Power BI и Yandex DataLens
+Во время обучения участвовал в дополнительном элективе по построению дашбордов в Microsoft Power BI и Yandex DataLens
+
+## Мои проекты выполненные в ходе обучения
+
 
 ## Диплом о прохождении курса
 ![Feodor Zenkevitch_Data_Analyst_RU_Yandex_Practicum_20222DA00756_pic1](https://github.com/zenkirb/data_analyst_yandex_practicum/blob/main/Feodor%20Zenkevitch_Data_Analyst_RU_Yandex_Practicum_20222DA00756_pic1.jpg)
