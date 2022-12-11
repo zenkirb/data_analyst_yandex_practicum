@@ -18,6 +18,7 @@
 Pandas, SQLalchemy
 
 Дашборд в Tableau: [ссылка](https://public.tableau.com/views/project_11_dzen_dashboard/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 Презентация: [ссылка](https://disk.yandex.ru/i/WM9GNiz7byzYmw)
 
 Макет дашборда по ТЗ:
